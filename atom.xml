@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://area6.github.io</id>
     <title>幻想地下城</title>
-    <updated>2021-01-26T03:48:15.437Z</updated>
+    <updated>2021-01-30T14:26:25.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://area6.github.io"/>
     <link rel="self" href="https://area6.github.io/atom.xml"/>
     <logo>https://area6.github.io/images/avatar.png</logo>
     <icon>https://area6.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 幻想地下城</rights>
+    <entry>
+        <title type="html"><![CDATA[123]]></title>
+        <id>https://area6.github.io/post/123/</id>
+        <link href="https://area6.github.io/post/123/">
+        </link>
+        <updated>2021-01-30T14:26:18.000Z</updated>
+        <content type="html"><![CDATA[<p>123</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年一定！]]></title>
         <id>https://area6.github.io/post/test/</id>
